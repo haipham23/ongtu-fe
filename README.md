@@ -1,5 +1,7 @@
 # ongtu-fe
 
+[![Build Status](https://travis-ci.org/haipham23/ongtu-fe.svg?branch=master)](https://travis-ci.org/haipham23/ongtu-fe)
+
 > A Vue.js project
 
 ## Build Setup
